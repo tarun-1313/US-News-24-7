@@ -50,6 +50,13 @@ US-News-24x7/
 └── sampleOutput.json            # Example news API response
 ```
 
+📸 Screenshots
+<img width="1887" height="923" alt="Screenshot 2025-07-30 124834" src="https://github.com/user-attachments/assets/719755d9-0bf0-494a-abab-bca623aa8501" />
+<img width="1885" height="968" alt="Screenshot 2025-07-30 124855" src="https://github.com/user-attachments/assets/927e67a0-0956-44a3-b0bf-ed0d73ee323b" />
+<img width="1878" height="953" alt="Screenshot 2025-07-30 124912" src="https://github.com/user-attachments/assets/2bf013c9-6794-4251-8480-6cb14c48d4a0" />
+<img width="1893" height="961" alt="Screenshot 2025-07-30 124929" src="https://github.com/user-attachments/assets/ec3e0ff0-89a0-43ff-8837-27d6396f4399" />
+<img width="1888" height="901" alt="Screenshot 2025-07-30 125007" src="https://github.com/user-attachments/assets/5001b861-af48-462e-ae8c-dedab7b43cf5" />
+<img width="1890" height="916" alt="Screenshot 2025-07-30 125016" src="https://github.com/user-attachments/assets/c1e934d4-6a0b-423f-9b9b-1f2c29eda137" />
 
 
 ---
